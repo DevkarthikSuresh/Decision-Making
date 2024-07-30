@@ -6,9 +6,7 @@ Experiment_5
 To use decision making loops
 
 ## Theory
-### Expriment 4(a)
-Bitwise operators are used to perform operations on the binary representations of integers. They operate at the bit level and are fundamental for tasks that require efficient data manipulation, such as low-level programming, cryptography, and performance optimization. Bitwise operations are faster than arithmetic operations and can be used to implement various algorithms and data structures.
-
+Decision-making is a fundamental concept in programming that allows the execution of different code paths based on conditions. The if and else statements are primary constructs used for decision-making in  C++. These constructs enable the implementation of conditional logic.
 ### Types of Bitwise Operators
 
 Bitwise operators include:
