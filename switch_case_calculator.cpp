@@ -37,6 +37,14 @@ break;
 }
 return 0;}
 /*Output-
-Enter a character: o
-o is a vowel
+Simple Calculator
+1.Addition
+2.Subtraction
+3.Division
+4.Multiplication
+Enter the operation:1
+Enter num1: 3
+Enter num2: 4
+7
+
 */
