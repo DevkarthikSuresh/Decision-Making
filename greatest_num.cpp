@@ -2,10 +2,6 @@
 //Name: Devkarthik Suresh
 //PRN: 23070123045
 //AIM - To check whether a number is even or odd.
-
-//Name: Devkarthik Suresh
-//PRN: 23070123045
-//AIM - To check whether a number is even or odd.
 #include <iostream>
 using namespace std;
 
