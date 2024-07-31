@@ -1,7 +1,7 @@
 
 //Name: Devkarthik Suresh
 //PRN: 23070123045
-//AIM - To check whether a number is even or odd.
+//AIM - To check which of the number is the greatest among 3.
 #include <iostream>
 using namespace std;
 
