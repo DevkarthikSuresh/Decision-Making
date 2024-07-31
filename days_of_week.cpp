@@ -50,6 +50,15 @@ int main() {
 }
 
 /*Output-
-Enter a character: o
-o is a vowel
+Days of the Week
+1. Monday
+2. Tuesday
+3. Wednesday
+4. Thursday
+5. Friday
+6. Saturday
+7. Sunday
+Enter the number to get the day of the week: 1
+You selected Monday.
+
 */
