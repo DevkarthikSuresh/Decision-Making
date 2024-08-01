@@ -1,7 +1,7 @@
 
 //Name: Devkarthik Suresh
 //PRN: 23070123045
-//AIM - To cperform operations using switch case
+//AIM - To perform operations using switch case
 #include <iostream>
 using namespace std;
 
