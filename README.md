@@ -64,7 +64,7 @@ if (condition) {
 
 5. **End**
 
-### vowel Check
+### Vowel Checker
 
 1. **Start**
 
